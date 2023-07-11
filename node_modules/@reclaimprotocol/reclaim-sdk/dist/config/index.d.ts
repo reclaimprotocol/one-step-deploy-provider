@@ -1,0 +1,1 @@
+export declare const RECLAIM_APP_URL = "https://share.reclaimprotocol.org/template/";
